@@ -1,2 +1,2 @@
-# My-Learning-Projects
-This repository is where I'm going to upload all the projects I work on as a programing student. 
+# BlackJack game made on python
+This is a quick game of blackjack I made as a Object Oriented Programming study project.
